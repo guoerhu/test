@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/java/workspace/BSB_MBCMS/WebContent/WEB-INF/lib/poi2.jar"/>
+	<classpathentry kind="lib" path="D:/java/workspace/BSB_MBCMS/WebContent/WEB-INF/lib/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/java/workspace/BSB_MBCMS/WebContent/WEB-INF/lib/poi-contrib-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/java/workspace/BSB_MBCMS/WebContent/WEB-INF/lib/poi-examples-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/java/workspace/BSB_MBCMS/WebContent/WEB-INF/lib/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/java/workspace/BSB_MBCMS/WebContent/WEB-INF/lib/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/java/workspace/BSB_MBCMS/WebContent/WEB-INF/lib/poi-scratchpad-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="D:/java/workspace/BSB_MBCMS/WebContent/WEB-INF/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="D:/java/workspace/BSB_MBCMS/WebContent/WEB-INF/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="D:/java/workspace/BSB_MBCMS/WebContent/WEB-INF/lib/commons-lang.jar"/>
+	<classpathentry kind="lib" path="D:/java/workspace/BSB_MBCMS/WebContent/WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/java/workspace/BSB_MBCMS/WebContent/WEB-INF/lib/ezmorph-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/java/workspace/BSB_MBCMS/WebContent/WEB-INF/lib/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
